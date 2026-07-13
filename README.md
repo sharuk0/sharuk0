@@ -46,7 +46,7 @@ and the mathematical foundations of quantum and post-quantum technologies.
 
 ## Connect with Me
 
-- 🌐 **Website and Blog:** [sharuko.com](https://sharuk0.github.io/))
+- 🌐 **Website and Blog:** [sharuko.com](https://sharuk0.github.io/)
 - 💼 **LinkedIn:** [linkedin.com/in/sharuk0](https://linkedin.com/in/sharuk0/)
 - 📧 **Email:** [sharuko@gmail.com](mailto:sharuko.g12@gmail.com)
 
