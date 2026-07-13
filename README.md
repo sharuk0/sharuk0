@@ -50,24 +50,4 @@ and the mathematical foundations of quantum and post-quantum technologies.
 - 💼 **LinkedIn:** [linkedin.com/in/sharuk0](https://linkedin.com/in/sharuk0/)
 - 📧 **Email:** [sharuko@gmail.com](mailto:sharuko.g12@gmail.com)
 
----
 
-<p align="center">
-Always learning, experimenting, and building.
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true"
-    alt="Gustavo's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
