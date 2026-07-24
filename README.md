@@ -20,7 +20,6 @@ and the mathematical foundations of quantum and post-quantum technologies.
 - 🧮 My main CTF and research interest is **applied cryptography**, particularly problems involving number theory, elliptic curves, lattices, RSA, and cryptographic implementation weaknesses.
 - 👥 Co-founder of **Cybersecurity Hub UTEC**, where I currently collaborate as an external cybersecurity consultant and support technical and research-oriented projects.
 - 📝 I document cryptography challenges, mathematical concepts, research notes, and technical experiments on my personal blog.
-- ⚛️ Currently exploring **quantum computing, quantum algorithms, and post-quantum cryptography**.
 
 ---
 ## Languages and Tools
