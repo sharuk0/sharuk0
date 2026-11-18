@@ -14,7 +14,7 @@ and the mathematical foundations of quantum and post-quantum technologies.
 ## About Me
 
 - 🎓 Mathematics student at the **Pontifical Catholic University of Peru — PUCP**.
-- 💻 Previously completed advanced undergraduate coursework in **Computer Science at UTEC**, with a focus on algorithms, artificial intelligence, systems, and cybersecurity.
+- 💻 Previously, I was in an undergraduate coursework in **Computer Science at UTEC**, with a focus on algorithms, artificial intelligence, systems, and cybersecurity.
 - 🔐 Currently working as a **Pentester**, performing web, infrastructure, network, and Active Directory security assessments.
 - 🌎 Represented **Latin America and the Caribbean** at the **International Cybersecurity Challenge 2026** in Gold Coast, Australia.
 - 🧮 My main CTF and research interest is **applied cryptography**, particularly problems involving number theory, elliptic curves, lattices, RSA, and cryptographic implementation weaknesses.
